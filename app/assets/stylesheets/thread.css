@@ -1,0 +1,23 @@
+.meta {
+    margin-bottom: 25px;
+}
+
+.content{
+    margin-bottom: 20px;
+}
+
+.count {
+    float: right;
+    margin-bottom: 20px;
+}
+.thread {
+    margin-bottom: 15px;
+    border-bottom: 5px solid #000000;
+}
+
+.action {
+    float: left;
+}
+.actioin .btn{
+    float: none;
+}
